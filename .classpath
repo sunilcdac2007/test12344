@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk8"/>
+	<classpathentry kind="lib" path="perf4j-0.9.16.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-crypto-3.1.0.RC1.jar"/>
+	<classpathentry kind="lib" path="lib/JavaBridge.jar"/>
+	<classpathentry kind="lib" path="lib/php-script.jar"/>
+	<classpathentry kind="lib" path="lib/php-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/parquet-hadoop-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/mina.jar"/>
+	<classpathentry kind="lib" path="lib/parquet-common-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/parquet-column-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/parquet-format-2.3.0-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/parquet-encoding-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/parquet-generator-1.7.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

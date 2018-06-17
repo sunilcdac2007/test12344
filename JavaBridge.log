@@ -1,0 +1,10 @@
+Dec 19 17:08:57 JavaBridge FATAL: Fatal Error: Failed to start PHP ["php-cgi", "-v"], reason: java.io.IOException: Cannot run program ""php-cgi"": CreateProcess error=2, The system cannot find the file specified
+Dec 19 17:08:57 JavaBridge ERROR: An exception occured: java.io.IOException: PHP not found. Please install php-cgi. PHP test command was: [php-cgi, -v] 
+java.io.IOException: PHP not found. Please install php-cgi. PHP test command was: [php-cgi, -v] 
+	at php.java.bridge.Util$Process.start(Util.java:1145)
+	at php.java.bridge.Util$ProcessWithErrorHandler.start(Util.java:1250)
+	at php.java.bridge.Util$ProcessWithErrorHandler.start(Util.java:1301)
+	at php.java.script.CGIRunner.doRun(CGIRunner.java:65)
+	at php.java.script.HttpProxy.doRun(HttpProxy.java:63)
+	at php.java.script.Continuation.run(Continuation.java:100)
+	at php.java.bridge.ThreadPool$Delegate.run(ThreadPool.java:60)

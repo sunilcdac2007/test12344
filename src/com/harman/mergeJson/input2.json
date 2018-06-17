@@ -1,0 +1,14 @@
+{ 
+   "id": "16zut",
+   "position":[1,2,5,7],
+   "metadata":{
+     "color":"green",
+     "id": "84ergfujh",
+     "more":{ 
+        "some":"randomdata",
+        "even":"more",
+        "absolutly":"noStructure"
+     },
+     "tags":[1,2,3,4,6,8]
+   }
+   }
